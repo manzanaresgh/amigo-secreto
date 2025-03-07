@@ -3,8 +3,9 @@
 </p>
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   <img src="https://img.shields.io/badge/Javascript-%20Java-yellow">
+   <img src="https://img.shields.io/badge/JAVASCRIPT%20Javascript-yellow">
    <img src="https://img.shields.io/badge/CSS-%20css-blue">
+   <img src="https://img.shields.io/badge/HTML%20html-red">
 </p>
 
 ##Índice
@@ -15,9 +16,9 @@
 
 *[Índice](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
-
 *[Estado del proyecto](#Estado-del-proyecto)
+
+*[Descripción del proyecto](#descripción-del-proyecto)
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
@@ -31,31 +32,29 @@
 
 * [Licencia](#licencia)
 
-*[Conclusión](#conclusión)
+<h4 align="left">
+:construction: Proyecto en construcción :construction:
+</h4>
 
 <H1>DESCRIPCION</H1>
 <p align="left">
    Este proyecto se encuentra en etapa de evaluacion y es un sistema en el cual se agrega un listado de personas y seleciona uno como tu amigo secreto.
 </p>
 
-<h4 align="left">
-:construction: Proyecto en construcción :construction:
-</h4>
-
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1-
-- `Funcionalidad 2`: descripción de la funcionalidad 2-
-- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2-
-- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Agregar persona`: Botón Aniadir Amigo: agrega la persona que se pone en el input a una lista de amigos.-
+- `Elegir amigo secreto`: Con el botón Sortear amigo elige una persona de las que se agregaron al azar como tu amigo secreto.-
 
 \## 📁 Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+**Se puede tener acceso al proyecto a travez del siguiente link**
+
+<a href="https://github.com/manzanaresgh/amigo-secreto/">amigo-secreto</a>
 
 \## 🛠️ Abre y ejecuta el proyecto
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+**Descargar el repositorio del proyecto y abrir el archivo html con el navegador de su preferencia.**
 
 
 ## Autores
