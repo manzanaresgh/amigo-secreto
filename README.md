@@ -30,7 +30,6 @@
 
 * [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
 
 <h4 align="left">
 :construction: Proyecto en construcción :construction:
@@ -61,6 +60,5 @@
 
 [<img src="https://github.com/user-attachments/assets/758e4d03-1bf5-452e-9b29-2518c9e6cec8" width=115><br><sub>Héctor Manzanares</sub>](https://github.com/manzanaresgh)
 
-<img alt="GitHub License" src="https://img.shields.io/github/license/manzanaresgh/git%40github.com%3Amanzanaresgh%2Famigo-secreto.git">
 
 
