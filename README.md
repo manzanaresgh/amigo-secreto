@@ -1,5 +1,5 @@
 <p align="center">
-   ![Logotipo Tecnología Azul](https://github.com/user-attachments/assets/b78f4de7-84a5-430e-8b07-be19b2e6fa97)
+   <img src="https://github.com/user-attachments/assets/b78f4de7-84a5-430e-8b07-be19b2e6fa97">
 </p>
 
 <h1 align="center"> Amigo Secreto </h1>
