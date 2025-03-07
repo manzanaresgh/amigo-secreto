@@ -57,7 +57,7 @@
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Héctor Manzanares</sub>](https://github.com/camilafernanda) |
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Héctor Manzanares</sub>] |
 | :---: | 
 
 
