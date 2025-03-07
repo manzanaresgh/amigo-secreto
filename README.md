@@ -57,8 +57,7 @@
 
 ## Autores
 
-[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Héctor Manzanares</sub>](https://github.com/manzanaresgh)
-
+[<img src="https://github.com/user-attachments/assets/758e4d03-1bf5-452e-9b29-2518c9e6cec8" width=115><br><sub>Héctor Manzanares</sub>](https://github.com/manzanaresgh)
 
 
 
