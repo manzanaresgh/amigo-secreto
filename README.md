@@ -3,8 +3,8 @@
 </p>
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/Javascript-%20Java-yellow">
+   <img src="https://img.shields.io/badge/CSS-%20css-blue">
 </p>
 
 ##Índice
